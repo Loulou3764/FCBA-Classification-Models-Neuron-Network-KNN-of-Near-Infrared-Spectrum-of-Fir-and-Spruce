@@ -12,7 +12,7 @@ PRETRAITEMENTS: Savitsky-Golay Smoothing
                 Imputation 
                 Selection of Varibles (Select-K-Best) 
                 
-MODELES : Neurone Network  (RESEAU DE NEURONE)
+MODELS : Neurone Network  (RESEAU DE NEURONE)
           K-Nearest-Neighbors (K-Nearest-Neighbors)
           
 TUNING : Randomized Search CV
