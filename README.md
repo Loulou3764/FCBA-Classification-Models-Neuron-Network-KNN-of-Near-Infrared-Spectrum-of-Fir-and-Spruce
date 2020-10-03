@@ -15,7 +15,7 @@ PRETRAITEMENTS: Savitsky-Golay Smoothing
 MODELES : Neurone Network  (RESEAU DE NEURONE)
           K-Nearest-Neighbors (K-Nearest-Neighbors)
                          
-SAUVEGARDE DES DONNEES PRE-TRAITES : (X_test.pkl)        To download !  
+BACKUP OF PRE-PROCESSED DATA : (X_test.pkl)        To download !  
                                      (y_test.pkl)
                                      (X_trains.pkl)
                                      (y_trains.pkl)
