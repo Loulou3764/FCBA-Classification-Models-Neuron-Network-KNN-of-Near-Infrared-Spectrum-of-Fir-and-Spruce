@@ -1,0 +1,1 @@
+# FCBA-Classification-Models-Neuron-Network-KNN-of-Near-Infrared-Spectrum-of-Fir-and-Spruce
