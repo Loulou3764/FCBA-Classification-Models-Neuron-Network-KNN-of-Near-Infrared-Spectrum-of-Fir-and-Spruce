@@ -6,10 +6,10 @@ Here is the project of developing a spruce and fir conifers recognizing tool by 
 
 DATABASE : spetrums (DATABASE_Sapin_Epicea_Ref1')
 
-PRETREATMENTS: Encoding Savitsky-Golay Smoothing 
-                Second derivative
-                Standardisation 
-                Imputation 
+PRETREATMENTS: Encoding / Savitsky-Golay / Smoothing / 
+                 Second derivative / 
+                Standardisation /  
+                Imputation / 
                 Selection of Varibles (Select-K-Best) 
                 
 MODELS : Neurone Network  (RESEAU DE NEURONE)
