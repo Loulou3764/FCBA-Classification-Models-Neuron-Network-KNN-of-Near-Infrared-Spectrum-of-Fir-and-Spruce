@@ -6,7 +6,7 @@ Here is the project of developing a spruce and fir conifers recognizing tool by 
 
 DATABASE : spetrums (DATABASE_Sapin_Epicea_Ref1')
 
-PRETREATMENTS: Encoding / Savitsky-Golay / Smoothing / 
+PRETREATMENTS: Encoding / Savitsky-Golay Smoothing / 
                  Second derivative / 
                 Standardisation /  
                 Imputation / 
