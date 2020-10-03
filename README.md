@@ -17,10 +17,10 @@ MODELS : Neurone Network  (RESEAU DE NEURONE)
           
 TUNING : Randomized Search CV
                          
-BACKUP OF PRE-PROCESSED DATA : (X_test.pkl)        To download !  
+BACKUP OF PRE-PROCESSED DATA : (X_test.pkl)        
                                      (y_test.pkl)
                                      (X_trains.pkl)
-                                     (y_trains.pkl)
+                                     (y_trains.pkl)To download !  
 
 
 
