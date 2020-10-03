@@ -14,6 +14,8 @@ PRETRAITEMENTS: Savitsky-Golay Smoothing
                 
 MODELES : Neurone Network  (RESEAU DE NEURONE)
           K-Nearest-Neighbors (K-Nearest-Neighbors)
+          
+TUNING : Randomized Search CV
                          
 BACKUP OF PRE-PROCESSED DATA : (X_test.pkl)        To download !  
                                      (y_test.pkl)
@@ -22,7 +24,7 @@ BACKUP OF PRE-PROCESSED DATA : (X_test.pkl)        To download !
 
 
 
-ENTREPRISE: FCBA (Forest Cellulose Wood-construction Furniture)
+COMPANY: FCBA (Forest Cellulose Wood-construction Furniture)
 
 
 (You will find more information in my internship report : RAPPORT DE STAGE LOUIS DEBRAY FCBA)
